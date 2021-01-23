@@ -1,0 +1,240 @@
+\begin{thebibliography}{}
+
+\bibitem[Bai and Wang, 2016]{BW16}
+Bai, J. and Wang, P. (2016).
+\newblock Econometric analysis of large factor models.
+\newblock {\em Annual Review of Economics}, 8:53--80.
+
+\bibitem[Basu and Michailidis, 2015]{basu2015regularized}
+Basu, S. and Michailidis, G. (2015).
+\newblock Regularized estimation in sparse high-dimensional time series models.
+\newblock {\em Annals of Statistics}, 43:1535--1567.
+
+\bibitem[Bi et~al., 2018]{bi2018multilayer}
+Bi, X., Qu, A., and Shen, X. (2018).
+\newblock Multilayer tensor factorization with applications to recommender
+  systems.
+\newblock {\em Annals of Statistics}, 46:3308--3333.
+
+\bibitem[Boyd et~al., 2011]{boyd2011distributed}
+Boyd, S., Parikh, N., Chu, E., Peleato, B., Eckstein, J., et~al. (2011).
+\newblock Distributed optimization and statistical learning via the alternating
+  direction method of multipliers.
+\newblock {\em Foundations and Trends{\textregistered} in Machine learning},
+  3:1--122.
+
+\bibitem[Candes and Plan, 2011]{candes2011tight}
+Candes, E.~J. and Plan, Y. (2011).
+\newblock Tight oracle inequalities for low-rank matrix recovery from a minimal
+  number of noisy random measurements.
+\newblock {\em IEEE Transactions on Information Theory}, 57:2342--2359.
+
+\bibitem[Chen and Chen, 2019]{chen2019modeling}
+Chen, E.~Y. and Chen, R. (2019).
+\newblock Modeling dynamic transport network with matrix factor models: with an
+  application to international trade flow.
+\newblock arXiv:1901.00769 [econ.EM].
+
+\bibitem[Chen et~al., 2020a]{chen2017constrained}
+Chen, E.~Y., Tsay, R.~S., and Chen, R. (2020a).
+\newblock Constrained factor models for high-dimensional matrix-variate time
+  series.
+\newblock {\em Journal of the American Statitical Association}, 115:775--793.
+
+\bibitem[Chen et~al., 2019]{chen2019non}
+Chen, H., Raskutti, G., and Yuan, M. (2019).
+\newblock Non-convex projected gradient descent for generalized low-rank tensor
+  regression.
+\newblock {\em The Journal of Machine Learning Research}, 20(1):172--208.
+
+\bibitem[Chen et~al., 2020b]{chen2018autoregressive}
+Chen, R., Xiao, H., and Yang, D. (2020b).
+\newblock Autoregressive models for matrix-valued time series.
+\newblock {\em Journal of Econometrics}.
+\newblock To appear.
+
+\bibitem[Chen et~al., 2020c]{chen2019factor}
+Chen, R., Yang, D., and Zhang, C.-H. (2020c).
+\newblock Factor models for high-dimensional tensor time series.
+\newblock arXiv:1905.07530v2 [stat.ME].
+
+\bibitem[Davis et~al., 2016]{Davis2016}
+Davis, R.~A., Zang, P., and Zheng, T. (2016).
+\newblock Sparse vector autoregressive modeling.
+\newblock {\em Journal of Computational and Graphical Statistics},
+  25:1077--1096.
+
+\bibitem[De~Lathauwer et~al., 2000]{deLathauwer2000multilinear}
+De~Lathauwer, L., De~Moor, B., and Vandewalle, J. (2000).
+\newblock A multilinear singular value decomposition.
+\newblock {\em SIAM Journal on Matrix Analysis and Applications},
+  21:1253--1278.
+
+\bibitem[Ding and Cook, 2018]{DingCook18}
+Ding, S. and Cook, R.~D. (2018).
+\newblock Matrix variate regressions and envelope models.
+\newblock {\em Journal of the Royal Statistical Society: Series B},
+  80:387--408.
+
+\bibitem[Fama and French, 2015]{fama2015five}
+Fama, E.~F. and French, K.~R. (2015).
+\newblock A five-factor asset pricing model.
+\newblock {\em Journal of Financial Economics}, 116:1--22.
+
+\bibitem[Frandsen and Ge, 2019]{frandsen2019understanding}
+Frandsen, A. and Ge, R. (2019).
+\newblock Understanding composition of word embeddings via tensor
+  decomposition.
+\newblock In {\em International Conference on Learning Representations}.
+
+\bibitem[French, 2020]{French_data}
+French, K.~R. (2020).
+\newblock Data library: {U.S.} research returns data.
+\newblock Available at
+  \url{http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html}.
+
+\bibitem[Gandy et~al., 2011]{gandy2011tensor}
+Gandy, S., Recht, B., and Yamada, I. (2011).
+\newblock Tensor completion and low-n-rank tensor recovery via convex
+  optimization.
+\newblock {\em Inverse Problems}, 27:025010.
+
+\bibitem[Han et~al., 2015a]{han2015direct}
+Han, F., Lu, H., and Liu, H. (2015a).
+\newblock A direct estimation of high dimensional stationary vector
+  autoregressions.
+\newblock {\em Journal of Machine Learning Research}, 16:3115--3150.
+
+\bibitem[Han et~al., 2015b]{Han_Xu_Liu2015}
+Han, F., Xu, S., and Liu, H. (2015b).
+\newblock Rate-optimal estimation of a high-dimensional semiparametric time
+  series model.
+\newblock Preprint.
+
+\bibitem[Han et~al., 2020]{han2020optimal}
+Han, R., Willett, R., and Zhang, A. (2020).
+\newblock An optimal statistical and computational framework for generalized
+  tensor estimation.
+\newblock {\em arXiv preprint arXiv:2002.11255}.
+
+\bibitem[Hoff, 2015]{hoff15}
+Hoff, P.~D. (2015).
+\newblock Multilinear tensor regression for longitudinal relational data.
+\newblock {\em Annals of Applied Statistics}, 9:1169--1193.
+
+\bibitem[Kolda and Bader, 2009]{kolda2009tensor}
+Kolda, T.~G. and Bader, B.~W. (2009).
+\newblock Tensor decompositions and applications.
+\newblock {\em SIAM Review}, 51:455--500.
+
+\bibitem[Lam et~al., 2012]{lam2012factor}
+Lam, C., Yao, Q., et~al. (2012).
+\newblock Factor modeling for high-dimensional time series: inference for the
+  number of factors.
+\newblock {\em Annals of Statistics}, 40:694--726.
+
+\bibitem[Li et~al., 2018]{li2018tucker}
+Li, X., Xu, D., Zhou, H., and Li, L. (2018).
+\newblock Tucker tensor regression and neuroimaging analysis.
+\newblock {\em Statistics in Biosciences}, 10:520--545.
+
+\bibitem[Liu et~al., 2013]{liu2013tensor}
+Liu, J., Musialski, P., Wonka, P., and Ye, J. (2013).
+\newblock Tensor completion for estimating missing values in visual data.
+\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  35:208--220.
+
+\bibitem[Mirsky, 1960]{mirsky1960symmetric}
+Mirsky, L. (1960).
+\newblock Symmetric gauge functions and unitarily invariant norms.
+\newblock {\em Quarterly Journal of Mathematics}, 11:50--59.
+
+\bibitem[Mu et~al., 2014]{mu2014square}
+Mu, C., Huang, B., Wright, J., and Goldfarb, D. (2014).
+\newblock Square deal: Lower bounds and improved relaxations for tensor
+  recovery.
+\newblock In {\em International Conference on Machine Learning}, pages 73--81.
+
+\bibitem[Negahban and Wainwright, 2011]{negahban2011estimation}
+Negahban, S. and Wainwright, M.~J. (2011).
+\newblock Estimation of (near) low-rank matrices with noise and
+  high-dimensional scaling.
+\newblock {\em Annals of Statistics}, 39:1069--1097.
+
+\bibitem[Negahban and Wainwright, 2012]{negahban2012restricted}
+Negahban, S. and Wainwright, M.~J. (2012).
+\newblock Restricted strong convexity and weighted matrix completion: Optimal
+  bounds with noise.
+\newblock {\em Journal of Machine Learning Research}, 13:1665--1697.
+
+\bibitem[Negahban et~al., 2012]{negahban2012unified}
+Negahban, S.~N., Ravikumar, P., Wainwright, M.~J., Yu, B., et~al. (2012).
+\newblock A unified framework for high-dimensional analysis of
+  \textit{M}-estimators with decomposable regularizers.
+\newblock {\em Statistical Science}, 27:538--557.
+
+\bibitem[Raskutti et~al., 2019]{raskutti2019convex}
+Raskutti, G., Yuan, M., and Chen, H. (2019).
+\newblock Convex regularization for high-dimensional multi-response tensor
+  regression.
+\newblock {\em Annals of Statistics}, 47:1554--1584.
+
+\bibitem[Shapiro, 1986]{shapiro1986asymptotic}
+Shapiro, A. (1986).
+\newblock Asymptotic theory of overparameterized structural models.
+\newblock {\em Journal of the American Statistical Association}, 81:142--149.
+
+\bibitem[Stock and Watson, 2011]{SW11}
+Stock, J.~H. and Watson, M.~W. (2011).
+\newblock Dynamic factor models.
+\newblock In Clements, M.~P. and Hendry, D.~F., editors, {\em Oxford Handbook
+  of Economic Forecasting}. Oxford University Press.
+
+\bibitem[Tomioka et~al., 2011]{tomioka2011statistical}
+Tomioka, R., Suzuki, T., Hayashi, K., and Kashima, H. (2011).
+\newblock Statistical performance of convex tensor decomposition.
+\newblock In {\em Advances in Neural Information Processing Systems (NIPS)},
+  pages 972--980.
+
+\bibitem[Tucker, 1966]{tucker1966some}
+Tucker, L.~R. (1966).
+\newblock Some mathematical notes on three-mode factor analysis.
+\newblock {\em Psychometrika}, 31:279--311.
+
+\bibitem[Vershynin, 2018]{Vershynin2018}
+Vershynin, R. (2018).
+\newblock {\em High-Dimensional Probability: An Introduction with Applications
+  in Data Science}.
+\newblock Cambridge University Press, Cambridge.
+
+\bibitem[Walden and Serroukh, 2002]{walden2002wavelet}
+Walden, A. and Serroukh, A. (2002).
+\newblock Wavelet analysis of matrix--valued time--series.
+\newblock {\em Proceedings of the Royal Society of London. Series A:
+  Mathematical, Physical and Engineering Sciences}, 458:157--179.
+
+\bibitem[Wang et~al., 2019]{wang2016factor}
+Wang, D., Liu, X., and Chen, R. (2019).
+\newblock Factor models for matrix-valued high-dimensional time series.
+\newblock {\em Journal of Econometrics}, 208:231--248.
+
+\bibitem[Wang et~al., 2020]{wang2019high}
+Wang, D., Zheng, Yao~Lian, H., , and Li, G. (2020).
+\newblock High-dimensional vector autoregressive time series modeling via
+  tensor decomposition.
+\newblock {\em Journal of the American Statistical Association}.
+\newblock To appear.
+
+\bibitem[Zheng and Cheng, 2020]{zheng20}
+Zheng, Y. and Cheng, G. (2020).
+\newblock Finite time analysis of vector autoregressive models under linear
+  restrictions.
+\newblock {\em Biometrika}.
+\newblock To appear.
+
+\bibitem[Zhou et~al., 2013]{Zhou13}
+Zhou, H., Li, L., and Zhu, H. (2013).
+\newblock Tensor regression with applications in neuroimaging data analysis.
+\newblock {\em Journal of the American Statistical Association}, 108:540--552.
+
+\end{thebibliography}

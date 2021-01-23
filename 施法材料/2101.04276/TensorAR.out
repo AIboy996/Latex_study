@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Preliminaries: Notation and Tensor Algebra }{}% 2
+\BOOKMARK [1][-]{section.3}{Low-Rank Tensor Autoregression}{}% 3
+\BOOKMARK [1][-]{section.4}{Low-Dimensional Least Squares Estimation }{}% 4
+\BOOKMARK [1][-]{section.5}{High-Dimensional Regularized Estimation}{}% 5
+\BOOKMARK [2][-]{subsection.5.1}{Regularization via One-Mode Matricization }{section.5}% 6
+\BOOKMARK [2][-]{subsection.5.2}{Regularization via Square Matricization }{section.5}% 7
+\BOOKMARK [2][-]{subsection.5.3}{Truncated Regularized Estimation }{section.5}% 8
+\BOOKMARK [2][-]{subsection.5.4}{ADMM Algorithm}{section.5}% 9
+\BOOKMARK [1][-]{section.6}{Simulation Studies }{}% 10
+\BOOKMARK [1][-]{section.7}{Real Data Analysis}{}% 11
+\BOOKMARK [2][-]{subsection.7.1}{Matrix-Valued Time Series}{section.7}% 12
+\BOOKMARK [2][-]{subsection.7.2}{Three-Way Tensor-Valued Time Series }{section.7}% 13
+\BOOKMARK [1][-]{section.8}{Conclusion and Discussion}{}% 14
+\BOOKMARK [1][-]{section.9}{Proofs for Low-Dimensional Estimation}{}% 15
+\BOOKMARK [1][-]{section.10}{Proofs for High-Dimensional Estimation}{}% 16
+\BOOKMARK [2][-]{subsection.10.1}{Preliminary Analysis }{section.10}% 17
+\BOOKMARK [3][-]{subsubsection.10.1.1}{Deterministic Analysis }{subsection.10.1}% 18
+\BOOKMARK [3][-]{subsubsection.10.1.2}{Stochastic Analysis }{subsection.10.1}% 19
+\BOOKMARK [2][-]{subsection.10.2}{Proofs of Theorems ??\205?? }{section.10}% 20
+\BOOKMARK [2][-]{subsection.10.3}{Proofs of Lemmas ??\205?? }{section.10}% 21
+\BOOKMARK [2][-]{subsection.10.4}{Three Auxiliary Lemmas }{section.10}% 22
